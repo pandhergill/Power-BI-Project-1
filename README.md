@@ -1,11 +1,11 @@
 **Project Title : Power BI Sales Dashboard**
 
-**Project Overview**
+**1. Project Overview**
 
 This project is a complete Power BI dashboard built using a multi-table Excel dataset containing Sales, Products, Salesperson, and Geographical data.
 The objective of the project is to analyze revenue, profit, customer count, product performance, and region-wise sales trends using interactive visuals.
 
-**1. KPIs**
+**2. KPIs**
 * Total Customers
 * Total Original Amount
 * Total Profit
@@ -13,27 +13,27 @@ The objective of the project is to analyze revenue, profit, customer count, prod
 * Total Calculated Amount
 * Month-wise trends for all KPIs
 
-**2. Region-wise Revenue**
+**3. Region-wise Revenue**
 
-**3. Salesperson Performance Table**
+**4. Salesperson Performance Table**
 * Profile picture
 * Total Original Amount
 * Profit %
 
-**4. Product Performance Table**
+**5. Product Performance Table**
 * With conditional formatting:
 * Profit % color-coded
 * Thumbs-up 👍 for profitable items
 * Thumbs-down 👎 for low-profit items
 
-**5. Dynamic Slicers**
+**6. Dynamic Slicers**
 * Team
 * Region
 
-**This dashboard helps stakeholders quickly understand.**
-
-**Project Purpose**
+**7. Project Purpose**
 * Which regions perform best
 * Which products are most profitable
 * Which salespeople drive the most revenue
 * Monthly trends in customers, profit, and revenue
+
+**This dashboard helps stakeholders quickly understand.**
